@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: lightgray;
+    padding: 15px;
+    box-sizing: border-box;
+}
+p {
+    padding: 45px
+}
+.topbox {
+    width: 75px;
+    height: 75px;
+    background-color: blue;
+}
+.stripe {
+    height: 26vh;
+}
+.boxone {
+    background-color: blue;
+}
+.boxtwo {
+    background-color: lightseagreen;
+}
+.boxthree {
+    background-color: lightgreen;
+}
+.boxfour {
+    background-color: yellow;
+}
+.question {
+    position: fixed;
+    right: 8px;
+    bottom: 7px;
+}
+.question button {
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    font-size: 30px;
+}
